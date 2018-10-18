@@ -1,0 +1,54 @@
+Zum neuen Flyer haben wir uns folgende Gedanken gemacht:
+Es wäre cool, wenn der Flyer selber nur ein DIN-A7-Kärtchen, eventuell
+auf Pappe oder zumindest auf stärkerem Papier gedruckt, wäre, der neben
+einem abgewandelten MüPE-Logo und kurzem knackigen Text nur einen Link
+auf eine Subdomain von http://MuePE.Org enthielte, zum Beispiel
+http://Spezial.MuePE.Org
+
+
+Hier ein grobes Beispiel:
+
+
+[[Text auf Visitienkarten-Miniflyer:]]
+
+
+MüPE-Spezial
+
+[abgewandeltes MüPE-Logo, grün, Pflanze die sich aus dem Logo erstreckt
+ und wieder darauf zurück kommt]
+
+Selbsthilfegruppe für Leute, die sich jung (18+)
+und/oder individuell fühlen
+
+http://Spezial.MuePE.Org  [Subdomain eventuell noch anders benennen]
+
+
+
+
+[[Text auf obiger Website:]]
+
+Wir sind zuverlässig, weltoffen, und weitgehend frei von Vorurteilen.
+Wir versuchen, der Gleichschaltung des „Einheitsbrei“ entgegenzuwirken,
+und in unserer hervorragenden Gruppe jedem subjekivem Individuum die
+bestmögliche Selbsthilfe bieten zu können.
+
+Die Gruppe findet immer am 1. und am 3. Donnerstag (nicht jedoch am 5.,
+falls es einen solchen gibt) im Monat statt.
+Den aktuellen Termin findet ihr immer hier auf unserer Website:
+[hier Termin]
+
+Adresse: Münchner Psychiatrieerfahrene (MüPE) e.V., Thalkirchner Straße 10,
+Ecke Fliegenstraße, gegenüber „Kr@ftWerk“, erster Stock
+
+U-Bahn-Haltestelle „Sendlinger Tor“
+
+
+* Die Gruppe ist offen für jeden, auch für Menschen ohne Psychiatrieerfahrung
+* Erfahrungsaustausch
+* Tee trinken
+* Entspannen
+* Gemeinsam einschlägige Filme sehen und darüber diskutieren
+* Zusammen Lösungen für Handyprobleme finden
+
+
+[[Ende der Website]]

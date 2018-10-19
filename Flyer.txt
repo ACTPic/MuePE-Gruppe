@@ -1,5 +1,5 @@
 Zum neuen Flyer haben wir uns folgende Gedanken gemacht:
-Es wäre cool, wenn der Flyer selber nur ein DIN-A7-Kärtchen, eventuell
+Es wäre cool, wenn der Flyer selber nur ein Kärtchen im Scheckkartenformat ISO/IEC 7810, eventuell
 auf Pappe oder zumindest auf stärkerem Papier gedruckt, wäre, der neben
 einem abgewandelten MüPE-Logo und kurzem knackigen Text nur einen Link
 auf eine Subdomain von http://MuePE.Org enthielte, zum Beispiel
